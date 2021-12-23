@@ -1,3 +1,5 @@
+// O(n) example
+
 'use strict';
 
 const nemo = ['nemo'];
